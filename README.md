@@ -66,6 +66,10 @@ cd Docxtemplater
 ```bash
 npm install docxtemplater pizzip
 ```
+(optional) when using azure function
+```bash
+npm install docxtemplater pizzip @azure/storage-blob
+```
 
 ---
 
